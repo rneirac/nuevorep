@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #000f28;
+    /*background-color:LightGray;*/
+    margin: 0;
+    font-family: 'Open Sans', verdana;
+  }
+  
+  h1 {
+    font-weight: 800;
+    font-size: 3.80em;
+    margin-bottom: 0.25em;
+  }
+
+  h2 {
+    font-weight: 800;
+    font-size: 2.5em;
+    text-align: center;
+    text-align: justify;
+  }
+
+  h5 {
+    font-weight: 400;
+    text-align: left;
+  }
+
+  h6 {
+    font-weight: 400;
+    text-align: left;
+}
+
+  nav {
+    text-align: left;
+    padding: 0.05rem 4rem;
+    width: 100vw;
+  
+  }
+
+  nav ul {
+    list-style-type: none;
+  }
+
+  nav ul li {
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+  }
+  
+  
+  footer {
+    margin-top: 2.5rem;
+  }
+  
+  footer {
+    padding: 2.125rem;
+  }
+  
+  footer i {
+    margin: 0 0.15em 0.15em 0.15em;
+  }
+
+  .nueva {
+    width:60%;
+    margin: 0 auto;
+    text-align: justify;
+    margin-top: 99px;
+  }
+  
+  .imagen{
+    width:100%;
+  }
+   
+  .parte{
+    text-align: center;
+  }
+  
+  .part{
+    text-align:left;
+  
+  }
+  
+  .negro {
+    background: #000f08;
+    color: #ffffff;
+  }
+  
+  .negro a{
+    color: #ffffff;
+    text-decoration: none;
+  }
+    
+  .nav{
+    position:fixed;
+    top:0;
+    left: 0;
+    margin-bottom: 99px;
+  }
+  
+  .icono {
+    width: 2rem;
+  }
+
+  .subtitulo {
+    text-align: center;
+  }
+  
+  .icono svg {
+    fill: #ffffff;
+  }
