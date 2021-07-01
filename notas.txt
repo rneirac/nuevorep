@@ -1,0 +1,3 @@
+//Este fue el primer desafío subido a la plataforma GitHub.
+
+//De ahora en adelante se trabajará de forma colaborativa.
